@@ -1,0 +1,16 @@
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\andyt\Downloads\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\andyt\Downloads\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
